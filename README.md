@@ -7,7 +7,7 @@
 highly encourage you go check out my strawpage since im editing this
 
 
-w21, very shy
+w21, very shy <-- extreme emphasis on this
 
 
 c+h 
