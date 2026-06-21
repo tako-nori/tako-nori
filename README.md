@@ -13,7 +13,7 @@ usually offtab or drawing
 w21, very shy <-- extreme emphasis on this
 
 
-c+h, do not copy or heavily reference my skins
+c+h, do not copy my skins
 
 
 i only make cosplays
