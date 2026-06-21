@@ -13,7 +13,13 @@ usually offtab or drawing
 w21, very shy <-- extreme emphasis on this
 
 
-c+h 
+c+h, do not copy or heavily reference my skins
+
+
+i only make cosplays
+
+
+i might only stay in the utdr area since i'm thinking of cosplaying characters from other medias
 
 
 
