@@ -15,11 +15,11 @@ w21, very shy <-- extreme emphasis on this
 
 c+h, do not copy my skins
 
-
 i only make cosplays
 
 
 i might only stay in the utdr area since i'm thinking of cosplaying characters from other medias
 
+i have a tiktok account (idk how often i'll post) and an atabook now, you should check them out too
 
 
