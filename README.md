@@ -1,4 +1,5 @@
 **Hi**
+[![blur-edges.png](https://i.postimg.cc/5NdgjQqf/blur-edges.png)](https://postimg.cc/Th0g4w4s)
 
 highly encourage you go check out my strawpage since im editing this (its a wip okay)
 
