@@ -1,10 +1,6 @@
 **Hi**
 
 [![blur-edges.png](https://i.postimg.cc/5NdgjQqf/blur-edges.png)](https://postimg.cc/Th0g4w4s)
-                yap yap yap test testyap yap yap test test
-
-[![003BLURREDMarina-Kirarazaka.png](https://i.postimg.cc/9XGT88Tx/003BLURREDMarina-Kirarazaka.png)](https://postimg.cc/RqZNqTgf)
-
 
 highly encourage you go check out my strawpage since im editing this (its a wip okay)
 
