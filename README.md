@@ -3,6 +3,8 @@
 <p><strong>This text is NOT important!</strong>
 <p></p>
 
+<p><a href="https://lagopuslagopus.straw.page">strawpage!</a></p>
+
 [![sideways-marinakirarazaka.png](https://i.postimg.cc/rpXMPJ5H/sideways-marinakirarazaka.png)](https://postimg.cc/v4zJ15q7)
 
 highly encourage you go check out my strawpage since im editing this (its a wip okay)
