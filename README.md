@@ -4,9 +4,8 @@
 <p></p>
 
 <p><a href="https://lagopuslagopus.straw.page">strawpage!</a></p>
-<p>I FINALLY DID SOMETHING RIGHT OMG AYHAHDSKJLHDHSJAFLKASJFLKJFAJKLS</p>
 
-### test
+**test**
 * this only works IF you have a space between the messages or something.....
 
 
