@@ -7,7 +7,7 @@
 <p>I FINALLY DID SOMETHING RIGHT OMG AYHAHDSKJLHDHSJAFLKASJFLKJFAJKLS</p>
 
 ### test
-* are you proud of yourself
+* this only works IF you have a space between the messages or something.....
 
 
 [![sideways-marinakirarazaka.png](https://i.postimg.cc/rpXMPJ5H/sideways-marinakirarazaka.png)](https://postimg.cc/v4zJ15q7)
