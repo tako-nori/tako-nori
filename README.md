@@ -1,10 +1,6 @@
 **Hi**
 
-<div align="center"> 
-  <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/{USERNAME}/count.svg" alt="Visitor's Count" />
-</div>
-what the heck is this
+
 
 [![sideways-marinakirarazaka.png](https://i.postimg.cc/rpXMPJ5H/sideways-marinakirarazaka.png)](https://postimg.cc/v4zJ15q7)
 
