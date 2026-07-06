@@ -5,9 +5,9 @@
 
 <p><a href="https://lagopuslagopus.straw.page">strawpage!</a></p>
 <p>I FINALLY DID SOMETHING RIGHT OMG AYHAHDSKJLHDHSJAFLKASJFLKJFAJKLS</p>
-<p>### test
+### test
 * are you proud of yourself
-</p>
+
 
 [![sideways-marinakirarazaka.png](https://i.postimg.cc/rpXMPJ5H/sideways-marinakirarazaka.png)](https://postimg.cc/v4zJ15q7)
 
