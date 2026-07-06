@@ -1,5 +1,5 @@
 **Hi**
-<p>this entire section below is for testing purposes only i need to figure out how to do a dropdown menu or something please whisper me because i'm actually desperate to figure it out
+<p>this entire section below is for testing purposes only, reminder this is still a wip (this really shouldn't be public on my pony town thingy majigy but whatever)</p>
 <p><strong>This text is NOT important!</strong>
 <p></p>
 
