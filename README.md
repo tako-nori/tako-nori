@@ -4,6 +4,7 @@
 <p></p>
 
 <p><a href="https://lagopuslagopus.straw.page">strawpage!</a></p>
+<p>I FINALLY DID SOMETHING RIGHT OMG AYHAHDSKJLHDHSJAFLKASJFLKJFAJKLS</p>
 
 [![sideways-marinakirarazaka.png](https://i.postimg.cc/rpXMPJ5H/sideways-marinakirarazaka.png)](https://postimg.cc/v4zJ15q7)
 
