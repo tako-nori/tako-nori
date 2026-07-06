@@ -5,13 +5,13 @@
 
 <p><a href="https://lagopuslagopus.straw.page">strawpage!</a></p>
 <p>I FINALLY DID SOMETHING RIGHT OMG AYHAHDSKJLHDHSJAFLKASJFLKJFAJKLS</p>
+<p>### test
+* are you proud of yourself
+</p>
 
 [![sideways-marinakirarazaka.png](https://i.postimg.cc/rpXMPJ5H/sideways-marinakirarazaka.png)](https://postimg.cc/v4zJ15q7)
 
 highly encourage you go check out my strawpage since im editing this (its a wip okay)
-
-### test
-* are you proud of yourself
 
 usually offtab or drawing
 
