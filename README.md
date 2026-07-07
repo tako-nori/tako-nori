@@ -3,7 +3,7 @@
 <p><strong>This text is NOT important!</strong>
 <p></p>
 <pre>
-a wha tnow text box?
+what the heck i wanted a lined box wth is this 
 </pre>
 <details>
   <summary>Click here to expand the box</summary>
