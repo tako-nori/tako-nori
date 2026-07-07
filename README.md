@@ -2,8 +2,7 @@
 <p>this entire section below is for testing purposes only, reminder this is still a wip (after the image it's just my regular bio)</p>
 <p><strong>This text is NOT important!</strong>
 <p></p>
-> [!NOTE]
-> This is a blue information box.
+
 <details>
   <summary>Click here to expand the box</summary>
   <br>
