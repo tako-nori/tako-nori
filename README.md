@@ -3,7 +3,7 @@
 <p><strong>This text is NOT important!</strong>
 <p></p>
 
-<div class="square"></div>
+<div> class="square"></div>
 
 <p><a href="https://lagopuslagopus.straw.page">strawpage!</a></p>
 
