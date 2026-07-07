@@ -6,6 +6,7 @@
   <summary>Click here to expand the box</summary>
   <br>
   another stack of hidden text worms jam
+  wait what the heck this is so cool?
 </details>
 <p><a href="https://lagopuslagopus.straw.page">strawpage!</a></p>
 
