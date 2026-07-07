@@ -2,7 +2,11 @@
 <p>this entire section below is for testing purposes only, reminder this is still a wip (after the image it's just my regular bio)</p>
 <p><strong>This text is NOT important!</strong>
 <p></p>
-
+<details>
+  <summary>Click here to expand the box</summary>
+  <br>
+  another stack of hidden text worms jam
+</details>
 <p><a href="https://lagopuslagopus.straw.page">strawpage!</a></p>
 
 <h1> TEST </h1>
