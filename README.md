@@ -3,8 +3,6 @@
 <p><strong>This text is NOT important!</strong>
 <p></p>
 
-<div style="width: 100 px; height: 100 px; background-color: blue;"></div>
-
 <p><a href="https://lagopuslagopus.straw.page">strawpage!</a></p>
 
 <h1> TEST </h1>
