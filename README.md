@@ -29,7 +29,9 @@ bro what is this this is just the quote box
 | :--- |
 | ask for a TABLE |
 
-| test hahaha logn text very long text paragraph essay worthy wdym i have to write an essay in an hour it wont' be my best work yknow |
+> **Note:**
+> This is a text box blockquote.
+> It can hold multiple lines of text.
 
 <p><a href="https://lagopuslagopus.straw.page">strawpage!</a></p>
 
