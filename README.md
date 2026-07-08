@@ -19,7 +19,12 @@ what the heck i wanted a lined box wth is this
 what is this haha
 
 > [!NOTE]
-> This is a blue box for useful information.
+> blue (there are other colours too)
+
+```text
+woah epic coolio toolio this didn't work last time!
+```
+
 
 <p><a href="https://lagopuslagopus.straw.page">strawpage!</a></p>
 
