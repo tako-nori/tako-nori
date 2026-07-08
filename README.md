@@ -13,6 +13,11 @@ what the heck i wanted a lined box wth is this
 </details>
 
 > Good morning
+
+# Section Heading
+
+what is this haha
+
 <p><a href="https://lagopuslagopus.straw.page">strawpage!</a></p>
 
 <h1> TEST </h1>
