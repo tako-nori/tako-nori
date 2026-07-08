@@ -14,10 +14,6 @@ what the heck i wanted a lined box wth is this
 
 > Good morning
 
-# Section Heading
-
-what is this haha
-
 > [!NOTE]
 > blue (there are other colours too)
 
@@ -42,6 +38,9 @@ bro what is this this is just the quote box
 
 <h1> TEST </h1>
 * this only works IF you have a space between the messages or something.....
+# same thing as "TEST" but formatted different
+
+yknow i think i should just have this as a separate file instead of flooding here but trust the process
 
 
 [![sideways-marinakirarazaka.png](https://i.postimg.cc/rpXMPJ5H/sideways-marinakirarazaka.png)](https://postimg.cc/v4zJ15q7)
