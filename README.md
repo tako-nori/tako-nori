@@ -25,10 +25,11 @@ what is this haha
 bro what is this this is just the quote box
 ```
 
-| title LALA |
+| i did NOT |
 | :--- |
-| text lala |
+| ask for a TABLE |
 
+| test hahaha logn text very long text paragraph essay worthy wdym i have to write an essay in an hour it wont' be my best work yknow |
 
 <p><a href="https://lagopuslagopus.straw.page">strawpage!</a></p>
 
