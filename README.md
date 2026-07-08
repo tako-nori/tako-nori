@@ -22,7 +22,7 @@ what is this haha
 > blue (there are other colours too)
 
 ```text
-woah epic coolio toolio this didn't work last time!
+bro what is this this is just the quote box
 ```
 
 
