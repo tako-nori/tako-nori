@@ -38,6 +38,7 @@ bro what is this this is just the quote box
 
 <h1> TEST </h1>
 * this only works IF you have a space between the messages or something.....
+
 # same thing as "TEST" but formatted different
 
 yknow i think i should just have this as a separate file instead of flooding here but trust the process
