@@ -25,6 +25,10 @@ what is this haha
 bro what is this this is just the quote box
 ```
 
+| title LALA |
+| :--- |
+| text lala |
+
 
 <p><a href="https://lagopuslagopus.straw.page">strawpage!</a></p>
 
