@@ -18,6 +18,9 @@ what the heck i wanted a lined box wth is this
 
 what is this haha
 
+> [!NOTE]
+> This is a blue box for useful information.
+
 <p><a href="https://lagopuslagopus.straw.page">strawpage!</a></p>
 
 <h1> TEST </h1>
