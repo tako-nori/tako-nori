@@ -35,7 +35,7 @@ bro what is this this is just the quote box
 <table>
   <tr>
     <td>
-      i pray this works bro (it's lowk bad but maybe i just need to make the text smaller? ill do that later also scroll down for actual bio stuff)
+      i pray this works bro (it's lowk bad but maybe i just need to make the text smaller? ill do that later)
     </td>
   </tr>
 </table>
