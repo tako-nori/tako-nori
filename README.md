@@ -27,7 +27,9 @@ bro what is this this is just the quote box
 
 <p>
 <div>
+  
  this is the div tag im gonna figure out how to make it actually work later
+
 </div>
 </p>
 
