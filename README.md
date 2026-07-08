@@ -1,5 +1,5 @@
 <p>⊹₊˚‧︵‿₊⊹₊˚‧︵‿₊⊹₊˚‧︵‿₊⊹₊˚‧︵‿₊⊹₊˚‧︵‿₊⊹₊˚‧︵‿₊⊹₊˚‧︵‿₊⊹₊˚‧︵‿₊⊹₊˚‧︵‿₊⊹₊˚‧︵‿₊⊹₊˚‧︵‿₊⊹₊˚‧︵‿₊⊹₊˚‧︵‿₊⊹₊˚‧︵‿₊⊹₊˚‧︵‿₊⊹</p>
-<p>this entire section below is for testing purposes only, reminder this is still a wip (after the image it's just my regular bio)</p>
+<p>this entire section below is for **testing purposes only**, reminder this is still a wip (**after the image it's just my regular bio**)</p>
 <p><strong>This text is NOT important!</strong>
 <p></p>
 <pre>
