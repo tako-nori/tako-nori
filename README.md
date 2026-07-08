@@ -29,9 +29,14 @@ bro what is this this is just the quote box
 | :--- |
 | ask for a TABLE |
 
-> **Note:**
-> This is a text box blockquote.
-> It can hold multiple lines of text.
+<table>
+  <tr>
+    <td>
+      i pray this works bro
+    </td>
+  </tr>
+</table>
+
 
 <p><a href="https://lagopuslagopus.straw.page">strawpage!</a></p>
 
